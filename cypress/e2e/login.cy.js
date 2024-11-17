@@ -1,3 +1,4 @@
+/// <reference path="../support/commands.d.ts" />
 /* eslint-disable linebreak-style */
 // cypress/e2e/login.cy.js
 
